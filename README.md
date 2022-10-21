@@ -1,3 +1,3 @@
 # hi 😊👋
-### this is my new react website , it's a notes app that using localstorage for storging data 
+### this is my new mern stack app 
 ## you can try it on https://tchi-catnotes.netlify.app/ 
